@@ -1,5 +1,6 @@
 # Given an array find values that add up to give the targetSum
-# Provided that the array is dsorted this can be done in
+# Provided that the array is sorted this can be done in nlogn
+# rather than going for n^2 with 2 for loops
 
 my_hash = {}
 def sumOfPairsOp(array, targetSum):
