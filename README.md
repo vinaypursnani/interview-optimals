@@ -3,7 +3,7 @@ Optimal Solutions to famous interview questions
 
 Depth first search on a Graph (represented using adjacency list)
 
-![image](https://user-images.githubusercontent.com/52756604/196010730-16b6aea9-c761-4657-8f5a-a18a9b328e3a.png)
+![image](https://user-images.githubusercontent.com/52756604/196010740-42c8a2d2-2d3c-48cc-9333-ea3da2bcc717.png)
 
 Pesant Algorithm Recurrence Relation and Recursive Tree -
 
